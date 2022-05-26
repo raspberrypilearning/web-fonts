@@ -1,59 +1,32 @@
-## Introduction
+Web designers carefully consider the font styles for their website. 
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+The **three** most common categories of font are:
 
-### What you will make
++ Library fonts
++ Web safe fonts
++ Fallback fonts
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+**Library fonts** are typically imported from a third party library such as [Google Fonts](https://fonts.google.com/). Companies will sometimes pay a fee to use a font as part of their website branding. 
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+**Web safe fonts** are standard fonts that should be available through any web browser. However, you can never be 100% sure that this is the case. Here is a list of web safe fonts:
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
++ Arial 
++ Verdana 
++ Helvetica 
++ Tahoma 
++ Trebuchet MS 
++ Times New Roman 
++ Georgia 
++ Garamond 
++ Courier New 
++ Brush Script MT 
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+**Fallback fonts** are generic font families that are used to match the styling that the web designer would like to use. The main font families are:
 
-+ A computer or tablet capable of running Scratch 3
++ Serif - a font style typically used in print publishing, letters have tiny decorative edges called 'serifs'
++ Sans-serif - a clean, screen readable font without the decorative edges
++ Monospace - a font where each character uses the same width of space
++ Cursive - a handwriting font
++ Fantasy - a decorative font typically used for big headings
 
-### Software
-
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
-
-### Downloads
-
-+ Download the project [starter file](https://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](https://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
+If a fallback font isn't listed then the web browser will use the browsers default font which is typically Times New Roman. 
