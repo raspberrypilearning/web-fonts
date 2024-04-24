@@ -1,14 +1,14 @@
-Web designers carefully consider the font styles for their website.
+Les concepteurs de sites web examinent attentivement les styles de police de leur site web.
 
-The **three** most common categories of font are:
+Les **trois** catégories de polices les plus courantes sont :
 
-- Library fonts
-- Web safe fonts
-- Fallback fonts
+- Polices de bibliothèque
+- Polices sécurisées pour le web
+- Polices de secours
 
-**Library fonts** are typically imported from a third-party library such as [Google Fonts](https://fonts.google.com/). Companies sometimes pay a fee to use a font as part of their website branding.
+Les **polices de bibliothèque** sont généralement importées depuis une bibliothèque tierce telle que [Google Fonts](https://fonts.google.com/). Les entreprises paient parfois pour utiliser une police dans le cadre de l’image de marque de leur site web.
 
-**Web safe fonts** are standard fonts that should be available through any web browser. However, you can never be 100% sure that this is the case. Here is a list of web safe fonts:
+**Les polices web sécurisées** sont des polices standard qui doivent être disponibles via n'importe quel navigateur web. Cependant, tu ne peux jamais être sûr à 100 % que c'est le cas. Voici une liste de polices web sécurisées :
 
 - Arial
 - Verdana
@@ -21,12 +21,12 @@ The **three** most common categories of font are:
 - Courier New
 - Brush Script MT
 
-**Fallback fonts** are generic font families that are used to match the styling that the web designer would like to use. The main font families are:
+**Les polices de secours** sont des familles de polices génériques utilisées pour correspondre au style que le concepteur web souhaite utiliser. Les principales familles de polices sont :
 
-- Serif: a font style typically used in print publishing, letters have tiny decorative edges called 'serifs'
-- Sans-serif: a clean screen-readable font without the decorative edges
-- Monospace: a font where each character uses the same width of space
-- Cursive: a handwriting font
-- Fantasy: a decorative font typically used for big headings
+- Serif : style de police généralement utilisé dans l'édition imprimée, les lettres ont de minuscules bords décoratifs appelés « empattements »
+- Sans-serif : une police propre et lisible à l'écran, sans les bords décoratifs
+- Monospace : une police où chaque caractère utilise la même largeur d'espace
+- Cursive : une police d'écriture manuscrite
+- Fantasy : une police décorative généralement utilisée pour les gros titres
 
-If a fallback font isn't listed, then the web browser uses the browser's default font, which is typically Times New Roman.
+Si aucune police de secours n'est répertoriée, le navigateur web utilise la police par défaut du navigateur, qui est généralement Times New Roman.
