@@ -1,14 +1,14 @@
-Web designers carefully consider the font styles for their website.
+Webontwerpers denken goed na over welke lettertypen ze willen gebruiken voor hun website.
 
-The **three** most common categories of font are:
+De **drie** meest voorkomende categorieën lettertype zijn:
 
 - Library fonts
 - Web safe fonts
 - Fallback fonts
 
-**Library fonts** are typically imported from a third-party library such as [Google Fonts](https://fonts.google.com/). Companies sometimes pay a fee to use a font as part of their website branding.
+**Library fonts** worden meestal geïmporteerd uit een externe bibliotheek zoals [Google Fonts](https://fonts.google.com/). Bedrijven betalen soms een vergoeding om een lettertype te gebruiken als onderdeel van de branding van hun website.
 
-**Web safe fonts** are standard fonts that should be available through any web browser. However, you can never be 100% sure that this is the case. Here is a list of web safe fonts:
+**Web safe fonts** zijn standaard lettertypen die via elke webbrowser beschikbaar moeten zijn. Je kunt er echter nooit 100% zeker van zijn dat dit het geval is. Hier is een lijst met web safe lettertypen:
 
 - Arial
 - Verdana
@@ -21,12 +21,12 @@ The **three** most common categories of font are:
 - Courier New
 - Brush Script MT
 
-**Fallback fonts** are generic font families that are used to match the styling that the web designer would like to use. The main font families are:
+**Fallback fonts** zijn algemene lettertypen, die passen bij de styling die de webdesigner wil gebruiken. De belangrijkste lettertypefamilies zijn:
 
-- Serif: a font style typically used in print publishing, letters have tiny decorative edges called 'serifs'
-- Sans-serif: a clean screen-readable font without the decorative edges
-- Monospace: a font where each character uses the same width of space
-- Cursive: a handwriting font
-- Fantasy: a decorative font typically used for big headings
+- Serif: een lettertypestijl die doorgaans wordt gebruikt in gedrukte publicaties, letters hebben kleine decoratieve randen die 'schreven' worden genoemd
+- Sans-serif: een helder, schermleesbaar lettertype zonder de decoratieve randen
+- Monospace: een lettertype waarbij elk teken dezelfde ruimte in de breedte gebruikt
+- Cursive: een handschrift lettertype
+- Fantasy: een decoratief lettertype dat meestal wordt gebruikt voor grote koppen
 
-If a fallback font isn't listed, then the web browser uses the browser's default font, which is typically Times New Roman.
+Als een fallback lettertype niet wordt vermeld, dan gebruikt de webbrowser het standaard lettertype van de browser, dat meestal Times New Roman is.
