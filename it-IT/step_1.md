@@ -1,14 +1,14 @@
-Web designers carefully consider the font styles for their website.
+I web designer valutano attentamente i font da usare nei loro siti.
 
-The **three** most common categories of font are:
+Le **tre** categorie di font più comuni sono:
 
-- Library fonts
-- Web safe fonts
-- Fallback fonts
+- Font da "librerie"
+- Font "a prova di web"
+- Font "di riserva"
 
-**Library fonts** are typically imported from a third-party library such as [Google Fonts](https://fonts.google.com/). Companies sometimes pay a fee to use a font as part of their website branding.
+I **font da libreria** sono solitamente importati da librerie esterne come ad esempio [Google Fonts] (https://fonts.google.com/). Le aziende a volte permettono l'uso di un font per il proprio sito web in cambio di soldi.
 
-**Web safe fonts** are standard fonts that should be available through any web browser. However, you can never be 100% sure that this is the case. Here is a list of web safe fonts:
+I **font a prova di web** sono font standard che dovrebbero essere sempre disponibili in qualsiasi web browser. Tuttavia, non si può mai essere sicuri al 100% che funzionino. Questa è una lista di font a prova di web:
 
 - Arial
 - Verdana
@@ -21,12 +21,12 @@ The **three** most common categories of font are:
 - Courier New
 - Brush Script MT
 
-**Fallback fonts** are generic font families that are used to match the styling that the web designer would like to use. The main font families are:
+I **font di riserva** sono famiglie di font generiche pensate per funzionare con lo stile che i web designer vogliono utilizzare. Le principali famiglie di font sono:
 
-- Serif: a font style typically used in print publishing, letters have tiny decorative edges called 'serifs'
-- Sans-serif: a clean screen-readable font without the decorative edges
-- Monospace: a font where each character uses the same width of space
-- Cursive: a handwriting font
-- Fantasy: a decorative font typically used for big headings
+- Serif: uno stile di font tipicamente usato nelle pubblicazioni, le cui lettere presentano piccole decorazioni chiamate 'grazie'
+- Sans-serif: font più semplici e leggibili senza decorazioni
+- Monospace: font in cui ogni carattere ha la stessa larghezza
+- Cursive: font che imitano la scrittura a mano
+- Fantasy: font decorativi di solito utilizzati per grandi titoli
 
-If a fallback font isn't listed, then the web browser uses the browser's default font, which is typically Times New Roman.
+Se non viene specificato un font di riserva, allora il web browser userà il suo font predefinito, che di solito è il Times New Roman.
