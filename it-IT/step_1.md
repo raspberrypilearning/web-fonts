@@ -6,7 +6,7 @@ Le **tre** categorie di font più comuni sono:
 - Font web-safe
 - Font di riserva
 
-I **font da libreria** sono solitamente importati da librerie esterne come ad esempio [Google Fonts] (https://fonts.google.com/). Le aziende a volte permettono l'uso di un font per il proprio sito web in cambio di un pagamento.
+I **font da libreria** sono solitamente importati da librerie esterne come ad esempio [Google Fonts](https://fonts.google.com/). Le aziende a volte permettono l'uso di un font per il proprio sito web in cambio di un pagamento.
 
 I **font web-safe** sono font standard che dovrebbero essere sempre disponibili in qualsiasi browser. Tuttavia, non si può mai essere sicuri al 100% che funzionino. Questa è una lista di font web-safe:
 
