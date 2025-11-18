@@ -14,7 +14,7 @@ Las **fuentes de biblioteca** normalmente son importadas de una biblioteca de te
 - Verdana
 - Helvetica
 - Tahoma
-- Trabuquete MS
+- Trebuchet MS
 - Times New Roman
 - Georgia
 - Garamond
