@@ -1,14 +1,14 @@
-Web designers carefully consider the font styles for their website.
+ウェブデザイナーはウェブサイトのフォントスタイルを慎重に検討しています。
 
-The **three** most common categories of font are:
+最も一般的なフォントの**3つの**カテゴリは次のとおりです。
 
-- Library fonts
-- Web safe fonts
-- Fallback fonts
+- ライブラリフォント
+- ウェブセーフフォント
+- フォールバックフォント
 
-**Library fonts** are typically imported from a third-party library such as [Google Fonts](https://fonts.google.com/). Companies sometimes pay a fee to use a font as part of their website branding.
+**ライブラリフォント**は通常、[Google Fonts](https://fonts.google.com/)などのサードパーティライブラリからインポートされます。 企業は、ウェブサイトのブランディングの一環として、フォントを使用するために料金を支払うことがあります。
 
-**Web safe fonts** are standard fonts that should be available through any web browser. However, you can never be 100% sure that this is the case. Here is a list of web safe fonts:
+**ウェブセーフフォント**は、どのウェブブラウザでも使用できると想定される標準的なフォントです。 ただし、100%そうとは限りません。 ウェブセーフフォントのリストは次のとおりです。
 
 - Arial
 - Verdana
@@ -21,12 +21,12 @@ The **three** most common categories of font are:
 - Courier New
 - Brush Script MT
 
-**Fallback fonts** are generic font families that are used to match the styling that the web designer would like to use. The main font families are:
+**フォールバックフォント**は、ウェブデザイナーが使用したいスタイルに合わせて使用される汎用フォントファミリです。 主なフォントファミリは次のとおりです。
 
-- Serif: a font style typically used in print publishing, letters have tiny decorative edges called 'serifs'
-- Sans-serif: a clean screen-readable font without the decorative edges
-- Monospace: a font where each character uses the same width of space
-- Cursive: a handwriting font
-- Fantasy: a decorative font typically used for big headings
+- セリフ(Serif): 印刷出版でよく使われるフォントスタイル、文字の端に「セリフ」と呼ばれる小さな装飾がついている
+- サンセリフ(Sans-serif): 端の装飾がない、画面上でくっきり見やすいフォント
+- 等幅フォント(Monospace): 各文字が同じ幅のスペースを使用するフォント
+- 筆記体(Cursive): 手書きフォント
+- ファンタジー(Fantasy): 大きな見出しによく使われる装飾的なフォント
 
-If a fallback font isn't listed, then the web browser uses the browser's default font, which is typically Times New Roman.
+フォールバックフォントがリストされていない場合、ウェブブラウザーはブラウザーのデフォルトフォント（通常は Times New Roman）を使用します。
